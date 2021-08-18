@@ -1,0 +1,17 @@
+.search-input{
+  height: 50px;
+  border-radius: 11px;
+  font-size: 20px;
+  padding: 0 10px;
+}
+
+.search-form{
+  margin: auto;
+  display:flex;
+  flex-direction: row;
+}
+
+.search-button{
+  border-style: solid;
+  border-radius: 11px;
+}
